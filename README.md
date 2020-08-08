@@ -10,3 +10,8 @@ Input two arguments: (1)The job title that you want to search, and (2) how many 
 This automation will then produce a dataframe(job_bool.txt) of all jobs searched, with their job description, education requirement and etc.
 It will also create a job_summary.txt file, which shows the count of occurance of each demanded skills in the searching results.
 
+
+
+And the flask_104.py is just another practice on using html web server to post a form data to execute job description search
+
+ 
