@@ -1,0 +1,761 @@
+,Unnamed: 0,No.,Job_Company,Job_Title,Job_Description,Education_level,Skills_Requirement
+0,0,1,PIXNET_優像數位媒體科技股份有限公司,資料分析師(NC-痞客邦研發中心),"作為大數據資料分析師，工作內容將會協同業務、廣告、商務、會員與內容等經營單位，從經營角度協助進行發掘改善經營的數據探索研究。
+
+經驗證的研究結果將會協同 Research Team／Data Team 提供產品化的開發",大學以上,"['python', '統計學', '資料分析']"
+1,1,2,易遊網股份有限公司,資料分析師,"1.資料蒐集、彙整、分析、結果呈現並支援行銷、產品部門分析需求。
+2.協同行銷、產品等單位進行數據整理與規劃，並提出建議方向與策略。
+3.運用數據分析技術與儀表版設計軟體視覺化呈現分析結果。
+4.請提供過往對數據分析之相關經驗或案例，例如會員分群、推薦商品模型、消費者
+   行為探討等。
+
+
+
+",大學以上,"['sql', 'linux', 'python']"
+2,2,3,美商心環科技股份有限公司,資料分析師,,大學以上,[]
+3,3,4,烏龜移動科技股份有限公司,資料分析師,"蝙蝠移動的核心服務是提供客戶專屬的私有化 DMP（Data Management Platform 數據分析管理平台）。和每個客戶一起建立真正屬於自己產業 domain-knowledge 的數據分析管理平台，從技術和商業策略兩個面向完整的走完這個 Data Journey~
+
+蝙蝠移動公司官網：
+http://www.batmobile.com.tw
+
+媒體報導：
+1. https://www.inside.com.tw/2017/03/15/dmp
+2. http://www.brain.com.tw/news/articlecontent?ID=44515&sort
+3. http://www.brain.com.tw/news/articlecontent?ID=23162&sort=
+
+1. 數據分析、挖掘、建模、模式評估等相關工作，並進行模型評估 
+2. 資料視覺化設計
+3. 熟悉預測方法、發展推薦演算法、個人化演算法
+4. 爬蟲程式開發，並進行文字探勘",大學以上,"['文字探勘', 'python']"
+4,4,5,艾普特媒體有限公司,資料分析師,"1. 理解並能運用機器學習演算法處理資料，建立模型對應商務需求。
+2. 能跨部門(工程/商務/網管等)良好溝通，設計並規劃機器學習演算法的商品化。
+3. 能持續學習機器學習相關演算內容，並能評估演算法可能的應用範圍。",大學、碩士,"['機器學習', 'python']"
+5,5,6,國泰金控_國泰金融控股股份有限公司,"數位資料分析師 Digital Data Analyst -- 生活金融(數數發中心, DDT)","我們正在尋找數位資料分析師，協助數位用戶的經營，並從資料中挖掘有用的資訊，輔佐產品不斷成長，工作內容包含但不限於如下相關內容:
+
+1. 協助行銷活動推廣、追蹤、成效評估
+2. 協助產品功能使用率、轉換率監控，及改版上線前後數據比對追蹤
+3. 使用者輪廓分析、行為分析、體驗經營，提出見解及應用層的建議
+4. 數位平台流量分析
+5. A/B Testing實驗設計
+6. 需有1年以上數位產品分析經驗",大學、碩士,"['sas', 'sql', 'python', '資料分析']"
+6,6,7,準線智慧科技股份有限公司,資深資料分析師,"1. 使用統計，數學,機器學習或deep learning等方法分析專案計畫產生的資料。
+2. 將問題與需求轉化為可分析的條件以及狀態。
+3. 定義專案分析的範圍以及方法論，定義假說以及指標,調整設計數據模型。
+4. 定義解決方法步驟的優先度。
+5. 設計建立分析所需工具。
+6. 專案成果彙整。",碩士以上,"['sql', '資料分析', '機器學習', 'python', '資料庫']"
+7,7,8,永慶房產集團_永慶房屋仲介股份有限公司,資料分析師.,"永慶房產集團垂直整合三大事業群，10年成長25倍，歡迎具備邏輯思考、分析判斷及溝通能力的優秀人才加入我們，我們提供舒適的辦公環境，完整的升遷制度及教育訓練，更有資深同仁經驗分享，帶領新人熟悉工作，讓您可以在最優質完整的環境下全心投入與發展。
+
+【工作內容說明】
+1.客戶行為分析與研究
+2.行銷活動事前客群分析與事後效益追蹤
+3.資料採礦專案的應用推廣",大學以上,['sql']
+8,8,9,智域國際股份有限公司,資料分析師 (Data Analyst),"-	與客戶溝通訪談確認分析需求以建立分析議題。
+1. 根據不同議題、資料來源，設計資料模型，並以視覺化報表的形式呈現分析結果。
+2. 與工程師合作架構資料倉儲系統並規畫整合數個倉儲系統為資料平台。
+3. 建立Machine Learning預測模型，並做相關預測分析。
+",大學以上,"['python', 'sql', '資料分析']"
+9,9,10,艾思網絡股份有限公司,商業資料分析師 Business Data Analyst,"UrCosme (@cosme TAIWAN)是化妝品使用心得分享網站，集結豐富的美妝產業資訊及美妝愛好者的行為資料，而美妝行銷總研(CMRI)則運用此資料庫，以多元觀點進行消費者洞察分享，旨在提供美妝業界趨勢分析，本職缺內容如下：
+1. 透過UrCosme網站資料庫進行資料分析與消費者洞察。
+2. 定期舉辦seminar，對外分享美妝行銷總研(CMRI)產業趨勢。
+(CMRI詳情可參閱：https://cmri.itrue.com.tw/)
+3. 透過DMP資料解析，協助各事業部門發展dashboard。
+
+此職務初期透過OJT的方式進行培訓，主要可歷練化妝品之於不同消費者關注的趨勢與行為觀察分析， 進而累積商業資料分析、思維與洞察力之專業。",碩士,"['r語言', 'ai', '資料分析', 'python', '統計學', '資料庫']"
+10,10,11,瑞嘉軟體科技股份有限公司,Data Analyst / 資料分析師,"•  Discover insights from a wide variety of data sources for potential business decisions.
+•  Collaborate across marketing, business operations, and business leaders to understand business questions.
+•  Create detailed report based on data mining and data visualization for business requirement.
+•  Perform other duties as necessary.",大學、碩士,"['sql', 'python']"
+11,11,12,富禾生醫股份有限公司,生物醫學資訊工程師,"1.生物醫學資料庫建立。
+2.生物醫學數值之機器學習演算法開發及驗證。
+3.協同PM進行數據分析、資訊視覺化，並報告分析結果、提出建議及後續成效評估。
+4.主管交辦事項。",不拘,"['深度學習', '資料分析', '機器學習', 'python', '資料庫']"
+12,12,13,歐立威科技股份有限公司,資料分析師 (Data Analyst),"1. 針對平台數據內容，進行數據整理及分析。
+2. 依需求將數據及資訊視覺化並說明分析結果。
+3. 提供建議及後續成效評估
+本職務需要具有以下技能：
+1. 熟悉分類分群、推薦、迴歸預測等演算法理論基礎，並有實作經驗
+2. 熟悉程式與分析應用，如 Python, R, SAS 等
+3. 熟悉商業智慧(BI)工具，如 Tableau, PowerBI 等",專科以上,"['sas', '資料庫', 'python']"
+13,13,14,關貿網路股份有限公司,資料分析師(T53),"建立分析統計預測模型及演算法
+視覺化報表設計",大學以上,['python']
+14,14,15,永慶房產集團_永慶房屋仲介股份有限公司,資深資料分析師.,"永慶房產集團垂直整合三大事業群，歡迎具備邏輯思考、分析判斷及溝通能力優秀人才的加入，我們提供舒適的辦公環境，完整的升遷制度及教育訓練，更有資深同仁經驗分享，帶領新人熟悉工作，讓您可以在最優質完整的環境下全心投入與發展。
+
+【工作內容說明】
+1.利用統計分析或資料採礦技術協助公司掌握市場趨勢。
+2.協助公司內外部分析資料整合，決策分析系統設計。
+3.客戶資料庫整合規劃。
+4.透過資料分析協同營運單位作戰。",大學、碩士,"['sql', '資料庫', '資料分析']"
+15,15,16,永豐金證券股份有限公司,資料分析師(資訊部),"1.資料建置、清理與管理
+2.使用者行為分析、解釋與預測，並撰寫分析報告(如投資行為、瀏覽行為)
+3.建立統計、計量或機器學習模型，提供Fintech 應用及協助決策
+4.金融科技專案規劃與執行",大學以上,"['機器學習', 'python', 'sql', '資料分析']"
+16,16,17,干城數碼有限公司,Python / R 數據分析師/資料分析師_D,"1.預估訂單，使用統計、機器學習、深度學習等演算法進行建模
+2.協助定義商業問題以及方法論，定義假說以及指標，調整設計數據模型 
+3.資料分析專案管理 
+4.負責專案之提案/執行",專科、大學、碩士,"['sql', '資料庫', '資料分析', '機器學習', 'python', '深度學習', 'nosql']"
+17,17,18,意藍資訊股份有限公司,資料分析師 (社群資料、人群資料),"本公司運用語意分析與雲端技術專長，推出全國規模最大的網路社群監測與分析平台《OpView社群口碑資料庫》及《PeopleView人群資料庫》，廣泛地應用在行銷廣告、公關客服、品牌及市場研究上，能夠在數億筆的雲端資料庫內，精確地分析網路上的口碑聲量，以及消費者和市場的樣貌，是數位行銷時代重要的工具，因此本公司招募想積極投身這波浪潮的人才一同加入。
+
+工作內容：
+70% 執行客戶的分析報告或提案，分析問題，進而提出策略方向
+20% 經營客戶關係，協助解決問題
+10% 分析客戶需求，歸納並參與規劃產品，提升服務
+
+本工作無特定學經歷要求，歡迎對下列有經驗或有興趣的同仁加入
+1.統計及研究方法論
+2.各式分析工具或技術 (例如R, Python, Excel, SQL任一)
+3.在企業及商業上的洞見詮釋",大學以上,"['python', 'sql', '資料庫', '資料分析']"
+18,18,19,動力安全資訊股份有限公司,資料分析師,"1.企業級Splunk架構安裝及設定
+2.需求訪談及文件撰寫
+3.系統分析及文件撰寫
+4.儀表板建置及警示建置",大學、碩士,['資料分析']
+19,19,20,向上國際科技股份有限公司,BI工程師/資料分析師,"1. 設計、開發及管理 Data infrastructure
+2. 協助內部用戶團隊做數據驅動的轉型
+3. 與內部用戶合作，以定義滿足業務需要的分析需求
+4. 以科學方法執行數據的假設檢驗
+5. 設計、開發、佈署和管理資料架構
+6. 資料探勘，進行資料蒐集、彙整、分析、結果呈現
+7. 用即時分析技術做監控、異常檢測或提升產品功能
+8. 規劃並實施中、長期的發展方向
+",專科以上,"['sql', '資料分析', '機器學習', 'python', '資料探勘']"
+20,20,21,意藍資訊股份有限公司,資料分析師 (資深/社群資料、人群資料),"本公司運用語意分析與雲端技術專長，推出全國規模最大的網路社群監測與分析平台《OpView社群口碑資料庫》及《PeopleView人群資料庫》，廣泛地應用在行銷廣告、公關客服、品牌及市場研究上，能夠在數億筆的雲端資料庫內，精確地分析網路上的口碑聲量，以及消費者和市場的樣貌，是數位行銷時代重要的工具，因此本公司招募想積極投身這波浪潮的人才一同加入。
+
+工作內容：
+70% 執行客戶的分析報告或提案，分析問題，進而提出策略方向
+20% 經營客戶關係，協助解決問題
+10% 分析客戶需求，歸納並參與規劃產品，提升服務
+
+本工作無特定學經歷要求，歡迎對下列有經驗或有興趣的同仁加入
+1.統計及研究方法論
+2.各式分析工具或技術 (例如R, Python, Excel, SQL任一)
+3.在企業及商業上的洞見詮釋",大學以上,"['python', 'sql', '資料庫', '資料分析']"
+21,21,22,童綜合醫療社團法人童綜合醫院,童綜合醫院資料分析師(資訊部),"1.醫院HIS資料清整。
+2.主題式資料庫之建置。
+3.主管交辦事項。
+4.醫療業務相關統計及分析。",碩士以上,"['r語言', 'sas', '資料庫', 'python']"
+22,22,23,逢甲大學_地理資訊系統研究中心,資深資料分析師_統合決策處,"1. 使用統計，數學,機器學習或deep learning等方法分析專案計畫產生的資料。
+2. 將問題與需求轉化為可分析的條件以及狀態。
+3. 定義專案分析的範圍以及方法論，定義假說以及指標,調整設計數據模型。
+4. 定義解決方法步驟的優先度。
+5. 設計建立分析所需工具。
+6. 專案成果彙整。",碩士以上,"['sql', '資料分析', '機器學習', 'python', '資料庫']"
+23,23,24,聯強國際股份有限公司,資料分析師(全球第二大IT通路集團),"(2020菁英計劃)於集團總部負責亞太(台灣、大陸、香港、澳洲、紐西蘭…)營運系統之研發與管理， 運用營運大數據，打造聯強數位神經系統，提升營運智能。
+
+對大數據資料處理及分析或人工智慧有高度興趣者
+資料統計分析、特徵工程。
+數據分析可視化操作。
+演算法評估，建立預測模型。",大學以上,"['機器學習', '資料庫']"
+24,24,25,怡東人事顧問股份有限公司,【知名財團法人】資料分析師  (資安所),"~此為派遣性質工作~
+
+1.研發問題定議。
+2.演算法設計。
+3.模組/模型開發。
+4.相關論文探討。
+5.模組/模型線上測試。",碩士以上,['python']
+25,25,26,凱鈿行動科技股份有限公司,資料分析師 Data Analyst (台南/Tainan),"【你需要做什麼？】
+• 行銷名單彙整管理
+• 產品數據收集參數設定與分析
+• 用戶行為與產品改善分析
+• 行銷活動與廣告支出效益分析
+• 內部與外部平台數據整合運用
+• 公司流程數據化視覺化與決策流程連結
+• 主動挖掘對公司營運提升有幫助之相關數據
+
+【你需要具備什麼？】
+• 能使用SQL語言查詢與匯出資料庫數據
+• 熟悉Tableau, Data Studio 視覺化軟體操作
+• 至少具備一項 Stata、SAS、SPSS、R 等統計軟體操作經驗
+• 具備Python, Ruby 等程式語言操作經驗尤佳
+• 具備應用個體經濟學知識為佳
+• 具備資料庫管理經驗者尤佳
+• 科系：經濟學相關,統計學相關,數理統計相關
+
+【加分條件】
+• 我們希望你熱愛數據的同時也善於用白話的語言跟團隊成員溝通
+• 我們希望你具備理性的數據思維也能兼具些微感性的分析能力
+• 我們希望你實事求是、善用數據、抽絲剝繭、不被問題表像所侷限
+• 我們歡迎你提出大膽假設、小心求證，提供我們一劑良方
+
+心動不如馬上行動，想加入我們，就快把履歷投遞過來吧！
+
+履歷喂食處▼（HR小編只食用經由這個連結喂過來的履歷喔＞＜）：
+https://kdanmobile.teamdoor.io/s/O7JNDB?lng=zh-TW
+
+",大學以上,"['sql', 'sas', 'python', '統計學', '資料庫']"
+26,26,27,麗臺科技股份有限公司,資深資料分析師【Big Data】,"1. 透過操作及分析數據以驅動有效的商業行動
+2. 從大量且多維度的資料提出洞見及可行性策略
+3. 使用者數據研究，設計實驗以驗證成效，透過分析多樣化的資料來呈現數據
+4. 利用資料視覺化方式組織並發佈可信服的資料分析結果以提供解決方案
+5. 其他專案及主管交辦事項",大學、碩士,"['python', 'sql', '資料分析']"
+27,27,28,薩摩亞商鳳之梧數位科技有限公司台灣分公司,DBA資料庫分析師,"1.	大型網站後端DB規劃`效能調教`備援`轉移及復原處理。
+2.	制定 SQL Server 的監控指標與應對機制，管理各項資料庫資源的使用，包含使用數量、使用空間、系統資源（CPU、Memory、IO）。
+3.	實施各式資料庫執行效能優化方式，ex. SQL 語法效調(SQL Tuning)、索引規劃(Index)、資料分割(Partition Table)、資料壓縮等。
+4.	熟悉 SQL 語法，有能力審閱 Store Procedure、Function、Trigger。
+5.	DB版控管理。
+6.	建置 High Availability (HA)，創建最佳資料庫架構。
+7.	熟悉No-SQL: Mongo` Redis` Memcached 等。
+8.	應對DB高併發巨量請求的應對處理機制。
+9.	撰寫Script進行日常工作或監控自動化。
+10.	具備CI/CD 經驗及 雲端DB使用經驗(如AWS RDS) 尤佳。
+11.	資料庫相關技術諮詢及RD/DBA相關教育訓練。",專科、大學、碩士,"['sql', '資料庫', 'mongodb']"
+28,28,29,中華電信關係企業_神腦國際企業股份有限公司,資深數據資料分析師,"1. 使用統計、機器學習等方法和分析工具協助公司掌握市場動態和產業趨勢，以提高競爭力。
+2. 協助營運單位分析數據、建立模型、商業化解讀分析結果，並協同轉化成可執行方案，並追蹤方案成效。
+3. 執行客戶行為與屬性的分析與預測、全通路商品或事件的個人化推薦與預測、客戶相關軌跡演算分析與預測。
+4. 利用數據分析與儀表板設計軟體將分析的結果進行資料視覺化。",大學、碩士,"['sql', '機器學習', 'mysql', 'python', '資料庫']"
+29,29,30,廣達電腦股份有限公司,資料數據分析工程師/專員 - J1913,"1. 數據資料前處理（包含數據清洗、特徵工程、數據相關性分析）。
+2. 資料可視化處理。
+3. 演算法開發與建模。
+4. 機器學習、深度學習或其他相關演算法應用。
+5. 參與專案與系統架構流程規劃。
+6. 工作待遇/職稱(助理工程師、工程師或專員)：將依學經歷進行敘薪。",大學、碩士,"['c#', '機器學習', 'c++', 'python', '深度學習']"
+30,30,31,國泰世華商業銀行股份有限公司_人力資源部,"【數據生態營運】資料科學分析師 -數據應用 (數數發中心,DDT)","【職務說明】
+1. 協助資料導入及自動化開發
+2. 數據介接、清洗、處理與數據模型的程式開發
+3. 與數據分析師合作，進行機器學習、深度學習與統計分析模型的維運化程式開發
+4. 控管資料處理架構與品質",大學以上,"['sql', '機器學習', 'mongodb', 'python', '深度學習', 'linux']"
+31,31,32,意藍資訊股份有限公司,產品分析師 (PeopleView人群資料庫),"本公司為第三方數據服務領導品牌，整合多方 Data Partner 資料並利用大數據 / AI / 語意分析技術，建構《PeopleView 人群資料庫》，提供企業人群描繪資料用以深化會員資料庫、會員溝通優化；同時亦將資料應用於精準廣告人群定向，為企業、廣告投放夥伴優化廣告成效，並成為 Google DoubleClick、The Trade Desk重要的數據合作伙伴。為持續精進產品與服務品質，找尋並培育數據+科技+行銷 跨領域人才，共同建構具技術與市場影響力的數據產品。
+
+此職務為產品部門PM角色，須與各部門溝通協調，負責產品發展與服務品質優化、資料價值挖掘，如果你具資訊、網站前端知識、熟悉數位廣告產業，又喜歡挑戰自己，那我們的工作項目非常適合你：
+1.產品分析與功能價值：運用資料處理能力(資料處理、資料清理、格式與內容轉換…等)與分析能力(資料視覺化、統計檢定/分析、機器學習/深度學習…等)進行產品品質提升建議、除錯、或產品應用報告產出；並建構產品分析功能模組，設計資料實驗方法、實驗步驟，並執行相關實驗，以提升產品價值。
+2.快速的產品開發：進行跨部門溝通(研發工程部門、業務部門、分析部門等)，了解需求與產品市場，並管理/執行各項產品開發流程。
+3.外部溝通：與客戶、合作夥伴等溝通協調，確認合作模式、專案、服務等流程順利進行，最大化合作價值。
+4.各種有趣事項。",大學、碩士,"['深度學習', '機器學習', 'python', 'ai', '資料庫']"
+32,32,33,伊雲谷數位科技股份有限公司,Data Scientist 資料科學家_數據分析師,"面對真實世界的複雜問題，運用資料科學與數據分析專業，協助客戶掌握有價值的資料並獲得洞見，
+本職務將接觸到廣泛的產業領域，包含金融業、科技業、製造業、政府機關、法人機構、上市櫃公司...等大型企業。
+
+職務內容：
+1. 與客戶溝通了解客戶需求目的、想解決的問題與希望獲得的商業價值
+2. 定義數據收集與後續分析需求，建構所需要的資料處理流程並協助客戶進行數據處理(清洗、ETL、標籤、特徵提取等)
+3. 依據數據處理與分析需求，建構數據模型，視實際情況調整並優化模型與流程
+4. 進行各種數據追蹤和分析，針對商業問題提供有用數據、評估與應用在客戶環境中，並持續優化與修正。
+5. 將數據結果給予最佳的視覺化建議與呈現
+6. 引導客戶學習使用並協助客戶洞察數據，提供有效的決策支援。
+本職務需要具有以下技能：
+1. 熟悉分類分群、推薦、迴歸預測等演算法理論基礎，並有實作經驗
+2. 熟悉程式與分析應用，如 Python, R, SPSS, MATLAB, SAS 等
+3. 熟悉大數據生態系(Big Data Ecosystem)，如 Hadoop, Spark, MapReduce, Hive 等
+4. 熟悉商業智慧(BI)工具，如 Tableau, QuickView, Qlik, PowerBI, Quicksight 等
+
+",碩士,"['機器學習', 'sas', 'python']"
+33,33,34,意藍資訊股份有限公司,產品分析師 (資深/PeopleView人群資料庫),"本公司為第三方數據服務領導品牌，整合多方 Data Partner 資料並利用大數據 / AI / 語意分析技術，建構《PeopleView 人群資料庫》，提供企業人群描繪資料用以深化會員資料庫、會員溝通優化；同時亦將資料應用於精準廣告人群定向，為企業、廣告投放夥伴優化廣告成效，並成為 Google DoubleClick、The Trade Desk重要的數據合作伙伴。為持續精進產品與服務品質，找尋並培育數據+科技+行銷 跨領域人才，共同建構具技術與市場影響力的數據產品。
+
+此職務為產品部門PM角色，須與各部門溝通協調，負責產品發展與服務品質優化、資料價值挖掘，如果你具資訊、網站前端知識、熟悉數位廣告產業，又喜歡挑戰自己，那我們的工作項目非常適合你：
+1.產品分析與功能價值：運用資料處理能力(資料處理、資料清理、格式與內容轉換…等)與分析能力(資料視覺化、統計檢定/分析、機器學習/深度學習…等)進行產品品質提升建議、除錯、或產品應用報告產出；並建構產品分析功能模組，設計資料實驗方法、實驗步驟，並執行相關實驗，以提升產品價值。
+2.快速的產品開發：進行跨部門溝通(研發工程部門、業務部門、分析部門等)，了解需求與產品市場，並管理/執行各項產品開發流程。
+3.外部溝通：與客戶、合作夥伴等溝通協調，確認合作模式、專案、服務等流程順利進行，最大化合作價值。
+4.各種有趣事項。",大學、碩士,"['深度學習', '機器學習', 'python', 'ai', '資料庫']"
+34,34,35,中國醫藥大學附設醫院,1M94-醫療智慧中心臨床資料組 臨床數據分析師,"1. 臨床資料清理
+2. 影像標註處理
+3. 數據資料分析
+4. 相關文書處理",大學,"['資料庫', '資料分析']"
+35,35,36,威進國際資訊股份有限公司,資料倉儲分析師(台北),"1.處理大量原始資料進行資料清理及探索性分析
+2.資料倉儲規劃、分析、建置。
+3.資料倉儲model 優化及效能調整。
+4.將資料視覺化, 產出分析報告或儀表板, 提供富有洞察力的數據協助營運決策
+5.撰寫分析規格及流程文件 
+",大學以上,"['java', 'mysql', 'sql', 'python']"
+36,36,37,中國醫藥大學附設醫院,1M94-醫療智慧中心臨床資料組 初級臨床數據分析師,"1. 臨床資料清理
+2. 病歷資料分析
+3. 影像數據資料分析
+4. 相關文書處理",大學,['資料分析']
+37,37,38,國泰金控_國泰金融控股股份有限公司,"資料科學分析師（Data Science R&D）- 資料科學實驗室(數數發中心, DDT)","隸屬於國泰金控下的資料科學實驗室 Cathay Data Lab Team，實驗室專注於開發與研究最新資料科學與人工智慧相關技術。
+身為一名資料科學家與研究者，你必須適應 Cathay Data Lab Team 以下文化：
+- 樂於互相分享，善於互相學習
+- 主動發現問題，主動解決問題
+- 討論風氣興盛，沒有階級之分
+
+Cathay Data Lab Team 正在尋找優秀的機器學習及深度學習的專家，該職位將負責資料科學與人工智慧相關創新技術研究開發及概念性驗證。職務內容包括：
+- 處理最前端的技術：研究或發表最新資料科學及人工智慧論文。如：Attention Model, Graph Neural Network, Neural Architecture Search, etc.
+- 與各子公司業務團隊合作：應用機器/深度學習模型解決商業問題。如：客戶行為與屬性的分析與預測、商品或事件的推薦與預測。
+- 建立快速且高效率的機器學習架構：與資料工程師合作，進行機器學習、深度學習的架構設計與開發。",大學以上,"['機器學習', '資料探勘', 'python', '統計學', '深度學習', 'linux']"
+38,38,39,艾奕康工程顧問股份有限公司,資料庫與數據分析師 Data and Analytics Engineer(建築與人居環境部-台北),"AECOM數位解決方案團隊正在尋找熟悉建築與都市工程產業的資料庫與數據工程師，應徵者將與AECOM亞太區各地的專案和市場行銷團隊合作，協助團隊研究並建構資料庫結構與數據分析機制，打造支援雲端協作、行為分析以及資料視覺化的AR／VR／Web設計輔助工具，一同為AEC（Architecture, Engineering and Construction）產業帶來革新的工作流程與設計觀點。 
+
+應徵者需具備專案管理與產品規畫的實務經驗，並且可獨立完成資料庫建構、資料擷取、導入、分析解讀和應用等工作，實務上需熟悉資料結構、分析指標、資料庫語言SQL、雲端儲存(Azure, AWS)、前端和後端開發語言（如：HTML5、ASP.NET、Python等）。若同時具備資料視覺化或機器學習等技術概念者尤佳。 
+
+AECOM為構築更美好的世界而生，我們為全球150多個國家的政府機構與企業組織提供規劃設計、財務策劃與基礎設施營運的全方位服務。身為一個高度專業整合的企業，AECOM具備完整的全球專業知識網路與國際經驗，可以協助客戶解決高度複雜的業務挑戰。從地標建築與基礎設施、永續發展與環境規劃以至於國防建設與國家發展，AECOM提供多樣化的服務，身為美國Fortune 500大企業與Engineering News-Record排名全球第一的設計顧問公司。
+
+",大學、碩士,"['機器學習', 'sql', '資料庫', 'python']"
+39,39,40,國泰世華商業銀行股份有限公司_人力資源部,"【數據生態營運】資料科學分析師-數據分析 (數數發中心,DDT)","【職務說明】
+1. 機器學習、深度學習或統計分析模型的實作開發，包含數據清洗、特徵工程及探索、模型建置與調參
+2. 時間序列分析、自然語言處理(NLP)、社群網絡分析(SNA)或其他數據分析或演算法技術開發與實作
+3. 配合數據技術發展目標，實作可落地實用之新興數據技術。",碩士以上,"['機器學習', 'sql', '深度學習', 'python']"
+40,40,41,宇峻奧汀科技股份有限公司,遊戲數據分析工程師," - 彙整遊戲電磁紀錄，進行數據分析，為各業務策略提供數據支持。 
+  - 依需求將遊戲數據視覺化, 產出分析報告或監控儀表板。 
+  - 協助數據分析師建立統計分析方法。
+  - 自動化各種資料流。",專科、大學、碩士,"['資料庫', 'sas', 'sql', 'mysql']"
+41,41,42,OpenNet_開網有限公司,BI Analyst_BI 數據分析師,"Responsibilities 
+● Delivering clear analysis and reporting of core business metrics to shareholders.
+● Creation and management of reports and dashboards.
+● Monitoring the performance of key business products. 
+● Providing actionable insight to drive growth of core products. 
+● Extraction and analysis of large data sets from MySQL/Oracle DBs. 
+● Ad hoc analysis and reporting to clients and shareholders.
+",大學以上,"['sas', 'sql', 'mysql']"
+42,42,43,台塑_臺灣塑膠工業股份有限公司,電腦系統工程師 (資料庫管理) (越鋼-長駐越南),"1.負責MS SQL Server/Oracle資料庫監控機制建置及管理，包含服務、容量、CPU、Memory、Job及連線狀態。
+2.執行例行性資料庫備份/還原作業，並定期產出AWR Report及優化各系統之SQL語句。
+3.排除AIX/Solaris/Windows系統及MS SQL Server/Oracle之異常。
+4.配合執行各種資料庫相關作業或開發Procedure及Schedule Job相關功能。",大學、碩士,"['ai', '資料庫', 'sql']"
+43,43,44,新加坡商鈦坦科技股份有限公司台灣分公司,Senior DataBase Administrator 資深資料庫管理師 (台中市政府旁),"1.	大型網站後端 SQL SERVER (MS SQL) 的運作架設、維護、管理、規劃。
+2.	執行資料庫資料備援及恢復計畫。
+3.	SQL SERVER (MS SQL) 的即時監控及相關除錯；管理各項資料庫資源使用，包含使用數量、權限管理、使用空間、系統資源（CPU、Memory、IO）等。
+4.	監控資料庫效能，並適時針對相關參數及SQL進行調校。SQL SERVER 的存取效能及穩定性。
+5.	網站存取資料庫架構設計及規劃；提供諮詢並處理使用者使用資料庫的相關問題，進行Schema建置與異動的工作。
+6.	資料庫軟體維護及備份等 DB Schedule-Job 規劃。
+7.	商業智慧系統架構分析，報表生成。
+8.	此職缺在台中面試。",不拘,"['sql', '資料庫']"
+44,44,45,肯微科技股份有限公司,TIPTOP軟體工程師,"1.	客製程式的開發
+2.	客製報表的開發
+3.	既有程式/報表的維護
+4.	其他單位同仁的 TIPTOP 教育訓練
+5.	各單位反應問題的排除與回覆
+",大學以上,[]
+45,45,46,FUNDAY_智擎數位科技股份有限公司,資料庫管理師,"工作內容:
+1. 資料庫優化
+2. 資料庫規劃與設置
+3. 與程式開發人員配合資料庫開發工作",專科以上,"['資料庫', 'sql', 'mysql']"
+46,46,47,台中福華大飯店_鼎峻股份有限公司,資訊部副理,"1. Oracle及MS SQL程式設計及開發。
+2.系統分析及開發並監控系統運作。 
+3.建置、維護資料庫系統。 
+4.網頁設程式設計及開發。 
+5.協助處理公司IT部門工作。
+6.負責資安專案執行管理。",專科以上,"['sql', '資料庫']"
+47,47,48,宣揚電腦顧問股份有限公司,系統分析師（台北),"1.具備良好的邏輯,善於溝通協調。
+2.熟SQL語法製作雲端APP程式
+3.產品規劃.需求確認書,規格書撰寫。
+
+
+
+發展遠景： 
+宣揚公司基礎穩固, 技術領先同業.工作嚴謹,公司成長中,可在短時間內學習各個行業的Domain Know How,可往高階顧問師,管理職方面發展。",專科、大學、碩士,['sql']
+48,48,49,Paktor_新加坡商拍拖有限公司臺灣分公司,[Goodnight App]  Data Intern,"Goodnight是台灣自製的交友app，主打用聲音交友，上線三年，長期位於app商城交友app前三名，用戶數突破三百萬，各項數據連續三年都是指數型成長。
+
+在台灣、港澳、馬來西亞、韓國、日本、印度、美國等國家都有不少的用戶，且持續成長中。
+
+團隊成員就像好朋友一樣，會一起出國玩，下班喝酒聚餐。聰明工作、玩到壞掉，是我們的宗旨，來Goodnight，你可以有機會執行所有你想嘗試的Idea，無論是產品端、行銷端，甚至還可以跨領域學習、跨國家操作，跟著大家一起指數成長，絕對讓你感受到幸福又充滿挑戰的工作環境。
+
+Job Title: Data intern
+Salary range: NT$158/h.  (8hr/day, 2-3days/Week)
+Period: Aug 1~ Dec 31 (6 months for first period) 
+
+Job Description:
+- help redesign / maintain data model
+- build or integrate tooling for team member to explore data
+- work closely with me and the team to serve present and future requirements of data (either collecting or analysis)",大學以上,['python']
+49,49,50,優橋貿易股份有限公司,系統開發軟體工程師（Java PHP HTML）,"1. 與外包廠商一起建置、開發公司內部管理系統
+2. 與外包廠商一起建置、規劃資料庫
+3. 公司內部系統的設定・維護・優化及管理
+4. 提高公司內部作業流程的效率，導入/評估新技術&產品
+**請具體說明實際使用需求軟體的東西, 並請提供作品集參考, 謝謝!",大學以上,"['javascript', '資料庫', 'java', 'c++']"
+50,50,51,ShopBack_回饋網股份有限公司,Content Quality Analyst,"ABOUT US
+
+Build the Smarter Way to Shop!
+
+ShopBack, the #1 rewards and discovery platform in Asia-Pacific, enables shoppers across the region to shop ‘The Smarter Way”. It is a one-stop rewards and discovery platform for users to earn cashback, while delivering performance-based marketing to merchants. First launched in Singapore in 2014, ShopBack has since expanded its reach to Malaysia, Indonesia, the Philippines, Thailand, Taiwan,  Australia, and more recently, Vietnam and Korea. In Singapore, the company has also extended its service offering with ShopBack GO, an app-based rewards platform for in-store shopping, dining, and entertainment. We are a passionate team that wants to drive innovation and build a product that we love and are all proud of!
+
+ShopBack partners with over 3,000 merchants including Taobao, Expedia, Shopee, ZALORA to reward its users with cashback across a wide range of categories including general merchandise, travel bookings, fashion, health and beauty, groceries, and food delivery. To date, US$100m in cashback has been awarded to our over 20 million users.
+
+We have global ambitions and are up against international incumbents in a rapidly emerging field! We are expanding our existing team and are looking for passionate talent across APAC to be part of this exciting journey. If you are inspired to take up new challenges and leave a mark on the e-commerce landscape, then come and be part of our growing ShopBack Family!
+
+
+[Scope of work]
+Product Master Data Executive is in charge of the quality of the product information for the entire inventory of products displayed on ShopBack. They have ownership over the entire process of creating and maintaining the product information, making sure this information is accurate, relevant, and up-to-date.
+
+[Your Responsibilities Will Include]
+- Setting up quality control processes for the product information (product details, product listings), over the entire inventory of products.
+- Managing the onboarding, review, tagging, categorization of millions of products in the database. 
+- Participating in high volume analysis/testing assignments with a critical eye for improving the process and product.
+- Communicating with the product and engineering teams, escalating issues, distributing information promptly, and contributing key insights derived from your daily work.
+- Contribute to and maintain our overall testing/analysis guidelines.
+- Assist product team with a variety of non-technical product development tasks.
+
+",大學以上,"['sql', 'python']"
+51,51,52,錼創顯示科技股份有限公司,數據整合工程師（竹南科學園區）,"一、運用統計方法提升生產力及良率
+二、協助設計出適合公司製程的預測模型
+三、將產線的工程問題轉換為可分析的統計模型
+四、協助定義專案的分析流程及演算法
+五、將工程及產線需求轉換為可實現的資訊介面",碩士,['python']
+52,52,53,精藤股份有限公司,資料工程師,"精藤公司為【全家便利商店股份有限公司】之子公司，精藤做為集團資訊整合的中心，不但承擔著集團「系統整合」及「Know-How彙整」的責任，同時也扮演了集團最堅強的技術發展領航者及實踐者。
+
+而支援這團隊成長的背後，除了穩定成長的零售通路資訊發展需求以外，亦包含了精藤20年來不斷精進的程式開發技術以及重視團隊合作的組織文化。
+
+在精藤，除了可以學習各項資訊系統規劃、開發、監控與維護（如：物流管理系統、帳務管理系統、商品管理系統，與情報分析系統......等數以百計的資訊系統，精藤皆自行開發與維護），更有完善的公司治理與開發標準，可做為所有資訊人員執行專案時的後盾。
+
+除此之外，精藤近年來亦不斷追求更多新領域的發展，例如：雲端科技應用、大數據資料分析以及行動裝置管理技術等等，誠摯的歡迎所有對於零售流通有興趣的伙伴一同加入精藤的大家庭。
+
+職務內容如下：
+1. 負責資料清整工程及ETL開發
+2. 負責數據分析流程中的資料準備工作
+3. 協助資料倉儲管理",專科以上,"['資料庫', '資料分析']"
+53,53,54,兆威數位媒體有限公司,資料庫開發工程師(DBA),"1.熟TSQL
+2.能校調SQL效能(目前是MS SQL)
+3.具有資料規劃能力
+4.熟 SQL Server 備份還原機制
+5.熟 SQL Server 訂閱機制
+6.熟 SQL Server Partition 機制
+7.熟 SQL Server 權限控管機制",高中以上,['sql']
+54,54,55,傲世娛樂文創有限公司,BY-DBA 數據庫分析師,"1. 資料庫系統規劃、設計、建置
+2. 設計、建置及維護高可用性和DR 服務(SQL alwayson, replication, cluster.. etc)
+3. 執行資料庫的物件變更或部署
+4. 進行PR Review，確保Database object 的效能
+5. 執行定期的系統升級或更新
+6. 主動監控以確保資料庫服務性能優化
+7. 撰寫script 進行日常工作或監控的自動化
+8. 資料庫日常維護及故障排除",不拘,"['資料庫', 'sql', 'mysql']"
+55,55,56,Morgan Philips Hong Kong Limited Taiwan Branch_香港商博禹國際顧問有限公司台灣分公司,數據科學家 Data Scientist,"1. 客戶營運分析專案中的一員，主要負責客戶行為數據的處理與分析。
+1. As a member in customer's behavior project team, responsible for image data processing and analyzing.
+
+2. 導入與建制機器學習/深度學習模型。
+2. Implement and build up machine learning/deep learning model.
+
+3. 管理和分析現有客戶行為數據，提升資料品質
+3. Manage and analyze current data, propose ideas that improve data quality. ",大學以上,"['機器學習', 'java', '深度學習', 'python']"
+56,56,57,鄉林建設事業股份有限公司,資訊工程師,"1.網站數據追蹤、設定追蹤程式碼
+2.內部系統資料庫數據處理、自動化匯出
+3.協助數位轉型部門的資料串接需求（跨系統資料匯出匯入、API建置）
+4.協助內部流程自動化",大學以上,"['sql', 'mysql', 'mongodb', 'python', 'javascript', '資料庫', 'linux', 'nosql']"
+57,57,58,捷智商訊科技股份有限公司,網路工程師,"1.主動積極, 樂於分享.協助.良好溝通能力
+2.做事有計劃、效率、系統性思考
+3.具團隊合作精神、能配合公司規定。
+
+- 熟悉Python語言撰寫實務經驗1年以上。
+-熟悉Hadoop
+-開發API 給前端網站或其他Application使用
+-了解資料庫語言 (PostgreSQL, MSSQL, MySQL/MariaDB)
+- 熟悉Linux 者佳
+",專科、大學、碩士,"['c#', 'mysql', 'python', 'javascript', '資料庫', 'linux']"
+58,58,59,雨林新零售股份有限公司,SAP ABAP Engineer,"1.  協助開發SAP與異質系統整合所需ABAP整合介面。
+2.  SAP 外掛程式之分析、設計、開發、測試與後續維護。
+3.  BAPI/RFC/Webdynpro/ BTE / 程式效能調教。
+4.  處理 S/4 HANA 專案工作( 如資料轉檔、權限整理)。
+5.  協助使用者端 SAP 問題排除。",大學以上,['sap']
+59,59,60,鈕酷樂股份有限公司,數據分析師,"1.數據資料整理分析
+2.規劃數據分析模型
+3.數據研究報告撰寫 
+4.數據資料庫維運 
+5.應用大數據分析系統做旅遊行為分析 
+6.將資料視覺化(熟悉Tableau 尤佳)",大學以上,['資料庫']
+60,60,61,緯創軟體股份有限公司,E-SAP系統工程師,"1. 電腦/財務/物流管理等相關科系本科以上學歷。
+2. 2年以上SAP FI/CO/SD/MM 中任意一個外部顧問經驗。
+3. 4年以上上述模組內部顧問或Key User 經驗。
+4. 熟悉同行業，或相關行業企業流程，可實際參與客戶需求訪談/解決方案及開發功能說明 
+    書； SAP FI/CO/SD/MM(FI/CO優先）。
+5. 俱備有ABAP開發基礎或良好的經驗。",專科以上,['sap']
+61,61,62,長興開發科技股份有限公司(外商),IT Business Analyst,"Description:
+
+The IT Business Analyst will work as part of Finance Business Service team to develop, implement, manage and support CMC’s Financial Applications. The applicant shall have a good mix of business experience, functional and technical knowledge of Finance Systems (SAP FICO, Oracle EBS Financials, Hyperion and other financial applications like RPA, Backline, etc.). This individual shall possess the ability to consistently deliver effective solutions in a timely manner to meet business objectives. In this role, the individual will be responsible to identify gaps within the existing systems, work with leadership and management team to formulate IT systems strategy and roadmap, and work with business users to define requirements for new solutions and implement approved solutions.
+
+Specific Duties & Requirements:
+
+• Lead the planning, design, development and deployment of new solutions by utilizing appropriate systems development and project management methodologies.
+• Perform gap analysis between current state and future state, design/develop new technical solutions, develop test plan/test scripts and coordinate testing for enhancements & fixes.
+• Provide functional & technical expertise required to maintain and support CMC’s Financial systems. Collaborate with global IT and business teams to track and troubleshoot system issues, propose alternative solutions and corresponding RCA’s and explore improvements to existing systems and processes.
+• Evaluate emerging technologies to identify opportunities, trends and best practices that can be leveraged to strengthen CMC’s IT systems.
+• This job involves carrying a mobile device and may require some off-hours and weekend work.
+• Able to travel occasionally Taiwan, Korea, Singapore, Japan, and/or United States.",大學、碩士,"['sap', 'sql']"
+62,62,63,德昂資訊股份有限公司,系統分析和運維工程師--高雄,"系統分析和運維工程師
+
+崗位職責：
+1. 負責分析型應用軟體的需求調研和設計。
+2. 負責和開發人員溝通需求，確保産品開發符合要求。
+3. 負責分析型應用產品的售前和落地
+4. 擅長PPT製作，需求文檔撰寫和設計，熟悉軟體開發流程
+5. 提供現有系統的運維支持和服務
+6. 參與數倉維護和BI開發
+
+任職要求：
+1. 具備系統分析和資料分析雙重的經驗和能力
+2. 有OA、CRM、ERP, BI 等相關領域產品和服務開發和實施經驗
+3. 對于會員管理，積分計畫，財務管理，人資管理和資料分析等有很好的理解和深度的認知。
+",專科以上,"['資料庫', 'sql', 'mysql', '資料分析']"
+63,63,64,雲端互動股份有限公司,Sr. .Net Developer,"Responsibilities:
+·               Develop back-end systems in C#.NET
+·               Design, configure, and administer platforms in Microsoft Azure
+·               Communicate directly with US-based engineers in English
+·               Develop micro-service architectures and participate in enterprise architecture planning
+·               Provide leadership to other engineers and the team. ",大學以上,"['ai', 'c#', 'python']"
+64,64,65,易勝資訊股份有限公司,SAP 顧問,"擔任SAP Consultant, 熟悉下列任一產品
+- SuccessFactors
+- FIN CO
+- SCM PS",大學、碩士,['sap']
+65,65,66,鼎順數位科技有限公司,資料庫管理工程師 【需具經驗 / 薪資依能力面談調整】,"工作內容：
+1.資料庫日常維護、監控維護、異常處理、安全管理、數據備份、MySQL權限管理及分配。
+2.資料庫架構規劃，效能資料收集與調校，資料庫參數調優及性能的優化，提供最佳的資訊系統服務。
+3.支援其他部門工作 
+
+【加分條件】 
+1.熟悉Linux操作系統，熟悉Shell腳本編程及常用Linux系統管理命令。
+2.具有資料庫開發經驗及存儲過程編寫能力者佳。
+
+上班時間：
+9:00 ~ 18:00
+中午午休：
+12:00 ~ 13:00
+",大學以上,"['資料庫', 'mysql', 'linux']"
+66,66,67,泰瑩科技股份有限公司,系統工程師,"1.負責WMware虛擬化相關產品(vSphere/VDI)的客戶端技術服務，包括安裝建置、故障排
+   除、維護服務等。
+2.負責VMware、Server、Storage、Networking等相關產品之安裝及技術支援。
+3.Windows伺服器作業系統安裝整合(AD/SQL DB)之軟體、硬體安裝、操作及管理。
+4.系統建置、測試、驗收之SOP程序或相關文件撰寫。
+5.學習各項產品運用的技術，協助客戶端相關產品的服務與維運。",大學、碩士,['sql']
+67,67,68,台灣大哥大股份有限公司,I202 資料庫軟體工程師,"1. Open Source (Docker、Redis、ELK等) 架構規劃與管理
+2. Oracle 資料庫管理
+3. Java 軟體平台管理
+4. 專案的規劃管理
+5. 資通安全法符規設計
+6. 雲端架構規劃
+
+【薪資待遇】：月薪31,000元-53,000元，依績效另有豐厚年終獎金與員工紅利。",大學、碩士,"['java', '資料庫', 'python']"
+68,68,69,香港商福維克樂智有限公司台灣分公司,資訊系統分析師,"1.支援既有ERP系統日常作業
+2.訪談及繪製既有作業流程
+3.支援導入SAP 相關係統
+4.主管交辦事項 
+",專科、大學,['sap']
+69,69,70,博暉科技股份有限公司,資產管理系統開發人才C#(AM),"1. 負責金融軟體系統之程式設計與開發coding
+2. 團隊合作開發方式，專業領域及knowhow會有專人帶領進學習
+3. 升遷管道順暢，會依個人專長及能力安排適合的工作內容",大學以上,"['資料庫', 'sql', 'mysql', 'c#']"
+70,70,71,台灣大哥大股份有限公司,E124 雲端產品服務運維工程師,"1.系統維運: Linux、Windows
+2.虛擬平台維運管理: VMWARE、Xen
+3.儲存設備管理: EMC、NetAPP
+4.備份系統管理
+5.資料庫管理: Oracle
+【薪資待遇】月薪31,000元-53,000元，依績效另有豐厚年終獎金與員工紅利",大學以上,"['資料庫', 'linux']"
+71,71,72,星翔數位有限公司,資料庫數據處理專員,"1.	SQL資料庫系統規劃、架設、管理、維護。優化資料庫架構
+2.	使用SQL查詢數據、定期彙整日常行銷與營運數據報表與視覺化呈現
+3.	建立運營數據分析指標 (流量、轉換等運營相關)，並進行觀察分析與提供行動建議。
+4.	行銷計劃與工具之追蹤與成效評估，用以優化行銷策略與資源分配。
+5. 進行使用者行為分析，釐清與探討並掌握使用者行為。",大學以上,"['sql', '資料分析', 'mysql', 'python', '資料庫']"
+72,72,73,新北大眾捷運股份有限公司,資訊助理工程員,"1.	資訊及專案招標、履約管理及監造等採購業務。
+2.	資訊設備及資安制度之規劃、建置及執行。
+3.	其他主管指派及交辦事項。
+4.	需配合特定專案時間於部分例假日出勤。",大學、碩士,[]
+73,73,74,安聯人壽保險股份有限公司(總公司),"資訊部-Oracle Form, PL/SQL Developer","◎職位目的:
+-開發及維護人壽保險新契約核心系統
+-數位工具後端系統支援
+
+◎重要職責/工作內容:
+-新契約核心系統開發包含(需求訪談、系統規格撰寫、程式設計開發、系統測試)
+-新契約核心系統維護包含(日常維護作業、弱點修補、系統問題處理及修復、系統修改及測試)
+-數位工具支援包含(行動投保進件處理、各類查詢功能資料提供及API撰寫)",大學、碩士,['sql']
+74,74,75,阿物股份有限公司,"Site Reliability Engineering, SRE 工程師 (台北)","【 在 awoo 的 SRE 目標 】
+
+awoo 不再是以過去舊的思維來從事 DevOps 工作，在未來更多創新的思維下，我們擁抱更好的改變，並在變化與穩定中取得最佳平衡。而 Site Reliability Engineer 須自我定位成如何透過雲端最新技術來帶領 awoo 業務成長，讓產品開發能穩健且迅速的進行設計流程，從完成測試到整體部署，快速反應客戶需求。讓 awoo 企業資源運用效率提升，以實踐 ITaaS ( IT 即服務）自動化維運管理的目標，讓 SRE 能更專注在如何提升企業平台的效能優化。
+
+【 在 awoo 的 SRE 都要做什麼？ 】
+
+目前以 Google Cloud Platform (GCP) 雲端運算平台為主，同時擁有 IDC 機房 VM 虛擬環境與 Container 容器環境的協同運作方式。
+
+* 主要工作項目：
+
+1. 協助維護公司 SaaS 產品服務的運作穩定，透過 GCP 雲端來管理 SaaS 所有服務。
+2. 協助軟硬體資訊系統的運作及 IDC 資料中心設備維護，Mail Server 系統建置維護。
+3. 協助解決 RD 開發工程師的開發流程，包含 CI/CD 環境建置，部署流程支援，測試流程支援。
+4. 透過自動化工具來進行整個資訊系統維運工作（ Online + Stage + Dev ）。
+5. 協助搜爬系統（VM）的基本維護。
+
+* 次要工作項目：
+
+1. 軟硬體資訊系統的建置與維修及問題排除。
+
+【在 awoo 的 SRE 會接觸到哪些進階知識？】
+
+1. Google Cloud Platform（GCP）
+2. DevOps + CI / CD
+3. Security
+4. ITaaS
+5. SaaS
+6. Automation
+",專科以上,"['資料庫', 'mysql', 'linux', 'mongodb']"
+75,75,76,捷智商訊科技股份有限公司,.NET程式設計師,"	主要工作內容包括:
+        *參與開發與維護 ASP.NET C#系統。
+	*進行既有產品之持續優化與新功能開發。
+	*產品與系統之佈署與相關測試。
+
+	基本技能需求:
+        *熟悉C#或至少一種主流Object-oriented語言。
+ 	*需具備資料庫使用經驗，熟悉MS SQL者佳。
+        *了解HTML、Java Script、CSS等Web相關開發技術。
+",專科、大學、碩士,"['sql', 'c#', 'java', 'javascript', '資料庫']"
+76,76,77,中華系統整合股份有限公司,大數據-應用工程師,1. 熟悉開源解決方案整合應用 (如：Redis、ELK、MongoDB等)。,專科、大學、碩士,"['linux', 'mongodb']"
+77,77,78,萬寶華企業管理顧問股份有限公司,派遣至LINE-Data Engineer 數據工程師 [115-83],"About this Job:
+We are looking for a savvy Data Engineer with technical backgrounds in data system and platform development. The hire will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. If you want to join a world-class data team, we look forward to hearing from you soon! 
+
+Responsibilities:
+•	Build and optimize data pipeline architecture with global platform
+•	Automating manual processes, optimizing data delivery
+•	Build analytics tool that utilize the data pipeline to provide insights to customer needs, operational efficiency and other key business performance metrics
+•	Work closely with our development teams at Tokyo and Seoul
+",大學以上,"['java', 'python']"
+78,78,79,博暉科技股份有限公司,資產管理系統維護工程師(AM),"1. 負責金融軟體系統之程式維護與開發
+2. 客戶服務：問題解決及諮詢，系統增修分析及開發
+3. 團隊合作服務，專業領域及knowhow會有專人帶領進學習
+4. 升遷管道順暢，會依個人專長及能力安排適合的工作內容",大學以上,"['資料庫', 'sql', 'mysql']"
+79,79,80,新加坡商立可人事顧問有限公司台灣分公司,FL-【科技】資安副理 (年1.4~1.8M),"1. 設計與執行重要商業秘密資料外洩的控管機制
+2. 制定與管理人員對各種資料的使用權限
+3. 辦理資訊安全維護及管理作業
+4. 執行資訊安全專案-辦理滲透測試、資安健檢、弱點掃描、社交工程演練
+5. 執行資訊安全每月自行查核，並配合內、外部資訊安全稽核查核作業及追蹤檢討
+6. 資安事件分析、處理及回報
+7. 規劃與執行全公司資訊安全教育訓練(具備資安課程開發經驗佳)",大學,['linux']
+80,80,81,台灣大哥大股份有限公司,E128雲端產品運維工程師,"1.負責雲端產品IaaS、PaaS運維
+2.負責雲端服務虛擬平臺運維，如vSphere、Hyper-V、KVM
+3.上班地點: 台北市內湖/新北市三重
+【薪資待遇】月薪31,000~53,000元，依績效另有豐厚年終獎金與員工紅利。",大學以上,['linux']
+81,81,82,中華系統整合股份有限公司,(專案)系統維運工程師-[桃園],"(1)	網站系統管理、監控與自動化
+(2)	網站系統障礙排除
+(3)	維運文件撰寫
+(4)	新技術導入評估與其他支援事項
+",專科以上,['linux']
+82,82,83,小磨坊國際貿易股份有限公司,[總公司]ERP程式設計師,"1. 熟悉鼎新系統架構(Workflow ERP GP、Easy Flow) 。
+2. 具系統規劃及推展系統的經驗。
+3. 系統設計與開發。
+4. 熟悉MS SQL 及T-SQL 語法。
+5. 有良好的溝通能力。
+6. 標準文件、手冊製作",專科、大學,"['sql', 'c#', 'python']"
+83,83,84,燦坤實業股份有限公司,總部-資訊部-數據分析師,"【NOW…因應2020年起數位轉型專案啟動，擴大資訊本科與分析專才人員】 
+
+【職務說明】
+1.數據分析模型之開發與應用
+2.數據應用平台之開發與導入
+3.管理數據資料倉儲與應用平台
+
+【職務條件】
+1.熟悉資料庫之SQL語法及資料抽取/清理/轉換/載入…等ETL流程佳
+2.熟悉資料庫(Oracle 或 MS SQL 或 PostgreSQL優先) 及具資料庫端開發經驗、OLAP 經驗
+3.工作態度認真積極,具抗壓性",專科以上,"['sql', '資料庫']"
+84,84,85,連宜股份有限公司,資訊專員(上班地點:前鎮),"1. ERP 流程開發、問題解決、系統設計撰寫 (程式語言不拘)。
+2.  熟悉C#.NET WinForm, Crystal Report 開發技術,使用Visual Studio IDE開發環境。
+3. 具Microsoft SQL Server 資料庫程式設計及維護管理能力。
+4. 熟Windows Server,Linux及網路知識。
+
+
+",專科以上,"['sql', '資料庫', 'linux', 'c#']"
+85,85,86,德昂資訊股份有限公司,JAVA開發運維工程師 --台湾或者高雄,"崗位職責：
+1. 新系統開發
+2. 核心系統運維
+3. 系統分析
+4. BI分析
+
+任職要求：
+1、具有扎實的Java功底，具有較好的JavaIO、多綫程等方面的編程能力；
+2、熟悉常見設計模式，熟練使用 SpringMVC,SpringBoot 框架、熟練使用至少一種 ORM 框架如 Hibernate、MyBatis；
+3、熟悉SpringCloud,Dubbo微服務框架，以及相關組件，幷且可以從事微服務項目的運維工作，常見WEB項目的部署安裝，問題排查與解决等；
+4、熟悉Mysql/Oracle數據庫設計，具有SQL編寫及調優能力，熟悉常見NoSQL存儲；
+5、具有良好的編碼風格，較强的邏輯思維能力，有較好的自學能力和獨立工作能力
+",專科以上,"['sql', 'java', '資料分析', 'mysql', 'nosql']"
+86,86,87,安訊集團_安訊國際網路股份有限公司,VE1 - 數據分析師,"◆ElasticSearch 資料匯入與分析
+◆ Data Warehouse ETL建置程序設計
+◆ 網路封包數據統計分析
+◆ 分析各種結構化或非結構化資料
+您毋需擔憂對網路Domain KnowHow是否熟悉，只要已俱備資料庫技術，公司會進行產業知識的傳授，對海量資料分析有崇高興趣者，都歡迎到安訊進行深度溝通瞭解
+",專科以上,"['nosql', 'sql', '資料庫', '資料分析']"
+87,87,88,捷智商訊科技股份有限公司,ETL程式設計師,"1. 熟SSIS(SQL Server Integration Service) 或T-SQL
+2. 使用ETL Tool 進行資料轉換
+3. 依規格文件進行程式開發
+4. 熟悉公司Flow Control使用
+5. 有開發設計程式相關經驗者佳。",專科、大學,['sql']
+88,88,89,新必優資訊股份有限公司,系統分析師 - 台北市區內,"- 客戶使用需求與問題對應 (需求訪談,因應政府法規變動進行維護等)
+- 相關文件準備與撰寫 (循序圖, 活動圖, 流程圖等, 程式規格書等 使用Office/Visio)
+- 具備系統架構規劃與使用者需求分析經驗 
+- 具備資料庫設計技術 (Oracle PL/SQL) 
+- 專案文件撰寫能力 
+- 開發成果之驗證與測試技術
+- 具備政府專案系統分析經驗尤佳
+- Spring MVC經驗 (升級/重構spring 架構系統者尤佳)",不拘,"['sql', '資料庫']"
+89,89,90,聯強國際股份有限公司,資料庫工程師(全球第二大IT通路集團),"(2020菁英計劃)於集團總部負責亞太(台灣、大陸、香港、澳洲、紐西蘭…)營運系統之研發與管理， 運用營運大數據，打造聯強數位神經系統，提升營運智能。
+
+1.資料庫日常維護(監控/備份/異常處理)。
+2.資料庫壓力測試，SQL語法調校。
+3.資料庫架構規劃和安全管理。
+4.配合專案規劃達到最佳化，減少資料重複性。
+5.規劃、建置及改善公司資料庫，以提供最佳的資訊系統服務。",專科、大學、碩士,"['sql', '資料庫']"
+90,90,91,STARWIN TRADING L.L.C,((想來杜拜瞧過來))強力招募雲端運維工程師工程師,"我們是杜拜新創的遊戲平台研發公司，從2020年1月至今在杜拜已有7個月的菜鳥資歷，在中東這奢華的杜拜國，經歷了疫情的挑戰，感謝阿拉的PO-PI(保佑)，讓我們越戰越勇，讓StarWin的運營目前持續成長 !
+
+目前超想招聘一群有熱情、喜歡挑戰、想來杜拜體驗奢華，
+想跟阿拉結善緣的技術高手，加入我們這人還少少、制度好還要更好的菜鳥公司。
+讓大家在StarWin，一起高唱「We are family」!
+
+
+崗位職責
+1.負責線上遊戲的日常維護更新及故障排查，保證各遊戲項目的穩定性。
+2.遊戲伺服器的系統運維工作，包括：日常維護更新、故障排查、發佈變更版本、系統監控、系統升級、系統安全、性能優化等
+3.保障現有運維系統的穩定運行，並提升系統可靠性和可運維性。
+4.開發和維護部署腳本和運維系統平臺，實現自動化部署和自動化運維。
+
+具備專長及條件:
+1.熟悉linux作業系統
+2.四年以上運維相關經驗
+3.熟悉Linux語法、Shell腳本
+4.熟悉如nginx、tomcat、MySQL、Redis、Zookeeper、Zabbix 、ansible、docker、ElK等應用管理和維護
+5.有AWS、騰訊雲、阿裡雲等系統管理維護經驗佳。
+6.熟悉svn、jenkins等版本/發佈工俱佳。
+7.自我驅動力強，有強烈責任感。
+8.能配合公司初期人手不足，較長的工作時間。
+9.其他海外工作1年以上工作經驗者，能快適應異國環境者優先考慮。",專科以上,"['mysql', 'linux']"
+91,91,92,鉅眾資產管理顧問股份有限公司,網路管理工程師,"主要負責IDC & 相關企業網路之規劃與建置、管理及維護。
+
+1.網路、資安系統進行設定、監控、告警、安全性策略的定義與調校處理。
+2.網路、資安解決方案研究與導入、專案維護管理。
+3.協助關係企業、提供技術支援、障礙排除。
+4.對突發狀況緊急應變、處理、提出相關報告。
+5.工作報告、紀錄。
+6.機房管理、維護。
+7.主管交辦資訊相關之事務。
+
+",專科以上,"['linux', 'python']"
+92,92,93,富智康國際股份有限公司(鴻海集團),【S】資料庫開發與管理工程師(土城),"1.大型資料庫建置、管理及開發
+2.解決各種資料庫設計及架構問題
+3.為應用端提供良好的設計與建議
+4.既有資料庫維運、調校及需求實作",大學、碩士,"['sql', '資料庫']"
+93,93,94,凱信資訊股份有限公司,資訊安全工程師 (資料安全保護),"1. 為客戶提供Guardium, SailPoint管理軟體之安裝，設定與教育訓練
+2. 協助客戶建置與維護
+3. 本公司提供 在職訓練 (On-Job training)，無經驗亦可
+4. 需願意學習，認真負責，主動積極，並具團隊合作精神
+5. 對資訊安全領域有熱忱者。",專科、大學、碩士,['linux']
+94,94,95,優聘資訊科技有限公司,分析工程師_Analysis Engineer,"1. 依據需求創建、增強和整合資料清理及資料庫操作
+2. 熟悉系統自動化程序和流程
+3. 閱讀、解釋應用程式編碼設計和功能規格以進行編寫或優化
+4. 執行進階分析，提供可操作的見解(Actionable Insights)、資料視覺化，及因應不同需求進行客製化報告
+5. 使用資料庫技術（MS SQL，MySQL，Oracle）建立腳本和資料表以進行分析
+6. 與心理計量研究員合作，共同打造最佳實踐及產業最佳分析服務",大學以上,"['sql', '資料分析', 'sas', 'mysql', 'python', '資料庫']"
+95,95,96,Capital Power Global Limited,資深Java工程師 ( 疫情期间，在台工作),"【上班時間】
+正常行政班09：30〜18：30
+週休二日+菲律賓當地假期
+           
+【薪資福利】
+1.，底薪+餐補+旅遊津貼且所有權生日，結婚，喪親津貼
+2，年假20天，輪班職位有輪/夜班津貼
+3，合法長期工作證，版權當地勞工福利，安全有保障
+4，有員工宿舍，夜班交通車，員工教育培訓，醫療保險，當地銀行卡帳戶
+5，保證年薪13個月
+
+【工作內容】
+1. 後端系統的開發、移除錯誤及測試。
+2. 系統wiki的編寫和持續維護。
+3. 配合項目進行系統分析及系統功能設計。
+4. 分析系統性能，找出Root Cause並在與原系統基礎上進行優化。",專科以上,"['java', 'mysql', 'sql']"
+96,96,97,緯創軟體股份有限公司,【 2020軟體技術人才招募】大數據工程師,"【２年以上軟體相關經驗者，歡迎投遞！】資格不符者，恕不另行通知，謝謝!
+緯創軟體是台灣唯一專注於全球交付的資訊服務上櫃公司。因應業績不斷成長，需要大量人才加入國際軟體開發團隊。
+● 主要專案有：(1)銀行/保險/證券業系統開發、(2) 半導體/面板/電子產業相關系統開發、(3)通訊業系統開發、(4) 資安系統開發、(5)其他新技術應用開發, 如Machine Learning, Big Data…等。
+● 歡迎有任一產業經驗的軟體工程師與程式設計師加入我們。資深者佳。
+● 因專案眾多，將根據您產業經驗、技術程度、專長類別、與期待工作地點，於面試時詳談工作內容與機會。
+
+1.因應客戶需求做大數據蒐集、分析與開發
+2.將資料視覺化, 程式設計, 工商業邏輯分析判讀.
+3.依據分析結果提出優化給善方案.
+4.主要技術: Hadoop/R/Python.",專科以上,"['java', 'sql', 'python']"
+97,97,98,中國航運股份有限公司,資訊人員-資料整合分析人員,"1.資料庫規劃與維護
+2.資料整合分析
+3.報表輸出
+
+",大學以上,"['sql', '資料庫']"
+98,98,99,碩達系統股份有限公司,SAP 模組/ABAP顧問,"1.	曾經參與SAP專案規劃，對ERP導入和維運有高度興趣。
+2.	曾經參與SAP ERP系統相關導入工作及既有客戶SAP ERP系統維運及優化工作。
+3.	負責SAP ABAP開發，熟悉ERP 各模組外掛程式之分析、設計、開發、測試與後續維護。
+4.	異質性系統整合及程式效能調教。
+5.	配合公司專案需求至客戶端駐點服務。 
+6.	工作態度積極、負責，可視狀況獨立作業或與團隊合作，配合公司規定。",專科、大學、碩士,['sap']
+99,99,100,Ctyco Industry Ltd_中國台業工業有限公司,Software Engineer 軟體工程師 [新廠擴建徵才],"●BPM, SAP Business One系統維護(無經驗，公司可培訓)
+●Microsoft .NET 相關應用程式開發及維護
+●熟悉 JavaScript, MS SQL Server, XML, MS Office等技術
+●進行系統程式之測試與修改
+●與同事或廠商協同作業，可溝通、抗壓性強
+●主管交辦事項",專科以上,"['javascript', 'sap', 'sql', 'c#']"
