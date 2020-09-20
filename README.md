@@ -7,8 +7,12 @@ The target platform for job searching is 104.com in Taiwan
 
 Input two arguments: (1)The job title that you want to search, and (2) how many pages of searching results you want
 
-This automation will then produce a dataframe(job_bool.txt) of all jobs searched, with their job description, education requirement and etc.
-It will also create a job_summary.txt file, which shows the count of occurance of each demanded skills in the searching results.
+This automation will then produce a dataframe of all jobs searched, with their job description, education requirement and etc.
+It will also create a barplot, which shows the count of occurance of each demanded skills in the searching results.
+
+![alt text](https://github.com/asd855280/Job_description_search/blob/master/image/資料分析師需求技能.png?raw=true)
+
+
 
 
 
