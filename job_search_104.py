@@ -6,6 +6,10 @@ import numpy as np
 import pandas as pd
 from bs4 import BeautifulSoup
 import ssl
+import matplotlib.pyplot as plt
+from collections import Counter
+import matplotlib
+import seaborn as sns
 ssl._create_default_https_context = ssl._create_unverified_context
 pd.set_option('display.max_columns', 20)
 
@@ -17,11 +21,17 @@ search_url = 'https://www.104.com.tw/jobs/search/'
 
 def getJobList(job, page):
     '''
-    :param job: Specify the job title that to be searched
-    :param page: How many pages of searching results to be shown
+    Collecting all job posts url
+    :param job: String, Specify the job title that to be searched
+    :param page: Integer, How many pages of searching results to be shown
     :return: a list of searching result consists of job title and its web url
     '''
-    os.mkdir('./{}'.format(job))
+    try:
+        os.mkdir('./{}'.format(job))
+    except Exception as error_name:
+        print(error_name)
+        pass
+
     job_list = []
     ss = requests.session()
     total_html = ''
@@ -40,7 +50,7 @@ def getJobList(job, page):
 
         param_data = {}
         for each_line in query_str.split('\n'):
-          param_data[each_line.split(': ')[0]] = each_line.split(': ')[1]
+            param_data[each_line.split(': ')[0]] = each_line.split(': ')[1]
 
         response = ss.get(url=search_url, params=param_data, headers=headers)
         total_html += response.text
@@ -61,8 +71,9 @@ def getJobList(job, page):
 
 def getJobDescription(jobList):
     '''
-    :param jobList: Input a list of job research result
-    :return: return a diction of jobs description(keys: title, company, edu, skill)
+    Extracting job description details from each recruitment post
+    :param jobList: List, input a list of job research result
+    :return description_dict: Dictionary, return a dictionary of jobs description {keys: [title, company, edu, skill]}
     '''
     # 104 blocking users from locating the tag by using bs4, therefore, I found that they provide a json file when execute a GET request
     # to a certain url, with headers including referer
@@ -111,8 +122,9 @@ def saveCSV(job_dict):
 
 def skillClassify(file_path):
     '''
-    :param file_path: specify the file in which we want to classify resulting skills
-    :return: no returning object, this function creates another txt file
+
+    :param file_path: String, specify the file in which we want to classify resulting skills
+    :return: no returning object, this function creates another txt file, contains skills counts.
     '''
 
     df = pd.read_csv(file_path)
@@ -141,64 +153,38 @@ def skillClassify(file_path):
     print("Required Job skills categorized")
 
 
-
-def skillCount(path_file, page_number):
-    '''
-    :param path_file: Input file path
-    :return: no returning object, this function create a new csv file appending boolean table show which skill required for perspective job
-    '''
-    row_numb = int(page_number) * 20
-    df = pd.read_csv(path_file)
-    zero_array = np.zeros((row_numb, 22), dtype=int)
-    insert_columns = ['python', 'nosql', 'sql', 'r', 'ai', 'r語言', 'mysql', 'mongodb', '資料庫', 'javascript', '機器學習',
-                      '深度學習', '資料探勘', '文字探勘', 'linux',
-                      '統計學', '資料分析', 'sap', 'sas', 'java', 'c++', 'c#']
-
-    df[insert_columns] = zero_array
-    df.to_csv('./skill_count.txt')
-
-    for i in range(len(df)):
-        tmp_dict = {}
-        skill_list = [item.strip(" '").strip("'") for item in
-                      df.loc[i, 'Skills_Requirement'].strip('[').strip(']').split(',')]
-
-        for each in skill_list:
-            tmp_dict[each] = int(1)
-
-        updating_df = pd.DataFrame(tmp_dict, index=[i], dtype=int)
-        df.update(updating_df)
-
-    df.to_csv('./skill_bool.txt')
-    print("Final file completed")
-
-def getSummary(filePath):
-    '''
-    :param filePath: Input the job searching result dataframe
-    :return: creating a txt file, with sorted required skills and its relative counts
-    '''
-    df = pd.read_csv(filePath)
-    skill_list = ['python', 'nosql', 'sql', 'r', 'ai', 'r語言', 'mysql', 'mongodb', '資料庫', 'javascript', '機器學習',
-                  '深度學習', '資料探勘', '文字探勘', 'linux',
-                  '統計學', '資料分析', 'sap', 'sas', 'java', 'c++', 'c#']
-    result = list(df.sum(axis=0, numeric_only=True))
-    skills_amount = result[4:]
-    output_dict = {}
-    output_str = ''
-    for i in range(len(skill_list)):
-        output_dict[skill_list[i]] = skills_amount[i]
-
-    sorted_one = sorted(output_dict, key=lambda x:output_dict[x], reverse=True)
-    print(sorted_one)
-
-    for i in sorted_one:
-        output_str += '{} : {}'.format(i, output_dict[i]) + '\n'
-    with open('./job_summary.txt','w', encoding='utf-8') as file:
-        file.write(output_str)
+def result_plot():
 
 
+    # setting Chinese font
+    plt.rcParams['font.sans-serif'] = ['SimSun']
+
+    df = pd.read_csv('./job_skills.txt')
+    skills_set = []
+    for item in df.loc[:, 'Skills_Requirement']:
+        if len(item) > 0:
+            for each in (item.strip('[').strip(']').replace("'", '').replace(' ', '')).split(','):
+                if len(each) > 0:
+                    skills_set.append(each)
+    count_result = Counter(skills_set)
+    skills_dict = dict(count_result.most_common())
+
+    skills_name = list(skills_dict.keys())
+    skills_data = list(skills_dict.values())
+
+    fig, ax = plt.subplots(figsize=(16, 8))
+    ax.barh(skills_name, skills_data)
+    plt.savefig('./image/資料分析師需求技能.png')
+    plt.show(block=True)
 
 
 def execute(searching_key, searching_numb):
+    '''
+
+    :param searching_key:
+    :param searching_numb:
+    :return:
+    '''
 
     searching_keyword = searching_key
     searching_pages = int(searching_numb)
@@ -211,23 +197,9 @@ def execute(searching_key, searching_numb):
 
     skillClassify('./jobsearch.txt')
 
-    skillCount('./job_skills.txt', searching_numb)
-
-    result_df = pd.read_csv('./skill_bool.txt')
-
-    getSummary('./skill_bool.txt')
-
-    return result_df
+    result_plot()
 
 
 if __name__ == '__main__':
     result = execute('資料分析師', 5)
-
-
-
-
-
-
-
-
 
