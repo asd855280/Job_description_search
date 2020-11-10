@@ -6,9 +6,9 @@ This is a simple project that written in python.
 The target platform for job posts is 104.com in Taiwan
 
 # 104_job_search_recise (Two inputt parameters): 
-1.The job title that you want to search, and. 
+1.The job title that you want to search. 
 
-2.how many pages of searching results you want.
+2.How many pages of searching results you want.
 
 
 The python programg will:
